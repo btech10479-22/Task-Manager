@@ -32,7 +32,7 @@ Spring Boot REST API  ──►  MySQL 8 (taskdb)
 ```
 
 Docker Compose runs three containers on a shared internal network:
-`teamflow-frontend` → `teamflow-backend` → `teamflow-db`
+`taskmanager-frontend` → `taskmanager-backend` → `taskmanager-db`
 
 ---
 
